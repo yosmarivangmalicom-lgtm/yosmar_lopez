@@ -1,3 +1,4 @@
+#Yosmar ivan Lopez santacruz
 total = float(input("Total de la compra: "))
 cliente_frecuente = input("¿Eres cliente frecuente? (si/no): ")
 
