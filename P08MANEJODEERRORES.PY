@@ -1,3 +1,4 @@
+#Yosmar ivan Lopez santacruz
 try:
     num1 = int(input("Ingresa un número: "))
     num2 = int(input("Ingresa otro número: "))
