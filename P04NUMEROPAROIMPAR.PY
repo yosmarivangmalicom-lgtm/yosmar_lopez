@@ -1,3 +1,4 @@
+#Yosmar ivan Lopez santacruz
 num = int(input("Ingresa un número: "))
 
 if not (num % 2 != 0):
