@@ -1,3 +1,4 @@
+#Yosmar ivan Lopez santacruz
 import turtle
 
 t = turtle.Turtle()
