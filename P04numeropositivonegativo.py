@@ -1,3 +1,4 @@
+#Yosmar ivan Lopez santacruz
 num = float(input("Ingresa un número: "))
 
 if num > 0 or num == 0:
