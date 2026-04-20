@@ -1,3 +1,4 @@
+#Yosmar ivan Lopez santacruz
 # Pedir las tres calificaciones
 cal1 = float(input("Ingresa la primera calificación: "))
 cal2 = float(input("Ingresa la segunda calificación: "))
