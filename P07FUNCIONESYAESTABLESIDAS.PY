@@ -1,3 +1,4 @@
+#Yosmar ivan Lopez santacruz
 numeros = [3, 7, 2, 9]
 
 print("Lista:", numeros)
